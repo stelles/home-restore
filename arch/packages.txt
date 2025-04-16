@@ -1,0 +1,17 @@
+btop
+docker
+docker-compose
+git
+github-cli
+go
+graphviz
+jq
+kitty
+monero-gui
+openssh
+pyenv
+nvm
+remmina
+sshfs
+starship
+torbrowser-launcher

@@ -1,0 +1,12 @@
+1password
+1password-cli
+aws-cli-v2
+cursor-bin
+aws-session-manager-plugin
+phpstorm
+google-chrome
+slack-desktop
+jdownloader2
+microsoft-edge-beta-bin
+microsoft-edge-stable-bin
+visual-studio-code-bin

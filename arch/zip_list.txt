@@ -1,19 +1,26 @@
+# Directories
+.aws/
+.bash_bin/
+.bash_completions/
+.config/kitty/
+.ssh/
+dev/
+Monero/
+Documents/
+Downloads/
+Pictures/
+
+
+# Files
 .bash_aliases
 .bash_history
 .bash_logout
 .bash_profile
-.profile
 .bashrc
-.bash_bin/
-.bash_completions/
-dev/
-.config/kitty/
-.phpenv/
-.pyenv/
-.nvm/
-.ssh/
-.gitconfig  
+.gitconfig
 .gitignore_global
-.aws/
 .my.cnf
+.profile
+
+
 

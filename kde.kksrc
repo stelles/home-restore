@@ -1,0 +1,28 @@
+[Custom Commands][net.local.1password-2.desktop]
+Exec=1password --quick-access
+Name=1password quick access
+
+[Custom Commands][net.local.1password-3.desktop]
+Exec=1password --fill
+Name=1password fill
+
+[Custom Commands][net.local.1password.desktop]
+Exec=1password --show
+Name=1password Show
+
+[kitty.desktop][Global Shortcuts]
+_launch=Ctrl+Alt+T
+
+[net.local.1password-2.desktop][Global Shortcuts]
+_launch=Ctrl+Shift+Space
+
+[net.local.1password-3.desktop][Global Shortcuts]
+_launch=Ctrl+\\
+
+[net.local.1password.desktop][Global Shortcuts]
+_launch=Ctrl+P
+
+[org.kde.konsole.desktop][Global Shortcuts]
+NewTab=
+NewWindow=
+_launch=
